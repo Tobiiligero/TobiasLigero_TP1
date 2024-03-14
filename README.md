@@ -37,17 +37,6 @@
     <li><span class="emoji">👉</span> Ejecuta <code>python crypto_data_extractor.py</code> para iniciar la extracción de datos.</li>
 </ol>
 
-<h2><span class="emoji">🛠️</span> Contribuciones</h2>
-
-<p>¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, sigue estos pasos:</p>
-
-<ol>
-    <li><span class="emoji">1️⃣</span> Haz un fork del repositorio.</li>
-    <li><span class="emoji">2️⃣</span> Crea una nueva rama (<code>git checkout -b feature/nueva-caracteristica</code>).</li>
-    <li><span class="emoji">3️⃣</span> Haz tus cambios y confirma (<code>git commit -am 'Agrega nueva característica'</code>).</li>
-    <li><span class="emoji">4️⃣</span> Sube la rama (<code>git push origin feature/nueva-caracteristica</code>).</li>
-    <li><span class="emoji">5️⃣</span> Abre un Pull Request.</li>
-</ol>
 
 
 </body>
